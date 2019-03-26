@@ -8,6 +8,6 @@ public class Main {
 	// write your code here
         Date now = new Date();
         System.out.printf("Date now: " + now);
-        System.out.println("KJHasd");
+        System.out.printf("test");
     }
 }
